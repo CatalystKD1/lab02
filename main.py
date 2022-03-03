@@ -16,11 +16,11 @@ def part2():
   #3.14159 = pi
   _class = "CSD110" #class is a part of the python language. Change name
   desired_grade = 100 #Tried to subtracted desired by grade
-  hot = "hothot" #Can't have a number for/at the begining of, a variable name
+  hot2 = "hothot" #Can't have a number for/at the begining of, a variable name
   pi = 3.14159 # pi and the numbres should be switched
   print(_class)
   print(desired_grade)
-  print(hot)
+  print(hot2)
   print(pi)
   print("Part 2 is complete!")
   
@@ -28,15 +28,16 @@ def part3():
   print("Feeling... ", end = "")
   i = 0
   while (i < 3):
-    print("Hot ", end = "")
+    print("Hot", end = "")
     i += 1
+  print("!")
   print("Part 3 is complete!")
 
 def part4():
   base = 3000
   height = 1000
   triangle = 1/3 * (base * base) * height
-  print(str(triangle) + "cm cubed")
+  print(str(triangle) + "cm cubed") #Not sure how to do the cubed
   #Didn't specify what the error he got was. Wrote the code how I think the question was asking and got the right answer.
   print("Part 4 is complete!")
 part1()
