@@ -33,4 +33,16 @@ def part3():
   print("Part 3 is complete!")
 
 def part4():
-  
+  base = 3000
+  height = 1000
+  triangle = 1/3 * (base * base) * height
+  print(str(triangle) + "cm cubed")
+  #Didn't specify what the error he got was. Wrote the code how I think the question was asking and got the right answer.
+  print("Part 4 is complete!")
+part1()
+print("")
+part2()
+print("")
+part3()
+print("")
+part4()
