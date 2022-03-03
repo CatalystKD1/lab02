@@ -40,10 +40,18 @@ def part4():
   print(str(triangle) + "cm cubed") #Not sure how to do the cubed
   #Didn't specify what the error he got was. Wrote the code how I think the question was asking and got the right answer.
   print("Part 4 is complete!")
+print("----------------")
 part1()
+print("----------------")
 print("")
+print("----------------")
 part2()
+print("----------------")
 print("")
+print("----------------")
 part3()
+print("----------------")
 print("")
+print("----------------")
 part4()
+print("----------------")
